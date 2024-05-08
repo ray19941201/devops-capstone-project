@@ -1,12 +1,3 @@
----
-name: ISSUE_TEMPLATES
-about: User Story
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
