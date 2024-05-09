@@ -39,8 +39,6 @@ class TestAccountService(TestCase):
         init_db(app)
         talisman.force_https = False
 
-  # seperate line
-  
     @classmethod
     def tearDownClass(cls):
         """Runs once before test suite"""
