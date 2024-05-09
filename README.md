@@ -5,7 +5,7 @@
 
 This repository contains the starter code for the project in [**IBM-CD0285EN-SkillsNetwork DevOps Capstone Project**](https://www.coursera.org/learn/devops-capstone-project?specialization=devops-and-software-engineering) which is part of the [**IBM DevOps and Software Engineering Professional Certificate**](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
 
-![Build Status](https://github.com/ray19941201/devops-capstone-project/.github/workflows/ci-build.yml/badge.svg)
+![Build Status](https://github.com/ray19941201/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
 ## Usage
 
